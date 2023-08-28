@@ -1,0 +1,4 @@
+While I've worked on milestones, I could understand the use of smart pointer and multiple inheritance better.
+In use of multiple inheritance I had been through difficulty before. However, through this milestones, I realized that multiple inheritance is useful and make code more concise and efficient.
+In oop244 I enjoyed programming by using c++ but in oop345 I had a lot of difficulties to understand object oriented programming and understand them.
+To overcome I tried to make concept to codes and I tried to understand the concepts in depth.
